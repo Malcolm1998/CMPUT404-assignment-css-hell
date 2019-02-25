@@ -1,0 +1,45 @@
+
+
+body{
+    padding:0;
+    margin:0;
+    background-color: lightgrey;
+}
+
+span {
+    margin: 2px;
+}
+
+
+h2 {margin-left: 20px;
+    margin-right: 20px}
+h3 {margin-left: 20px;
+    margin-right: 20px}
+p {margin-left: 20px;
+    margin-right: 20px}
+
+ul {margin-left: 20px;
+    margin-right: 20px;}
+
+img {
+    border:5px solid black;
+    background-color:black;
+    margin: 20px;}
+
+.center {display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;}
+
+.main {float:left;
+    width: 70%;
+    background-color:lightgray; }
+
+.sidebar {border-style: solid;
+    float:right;
+    width: 29%;
+    background-color:grey}
+
+.strip {background-color: blue; min-height: 50px;
+
+}
